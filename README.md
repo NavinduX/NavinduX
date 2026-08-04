@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Navindu P. 👋</h1>
+<h1>Hi, I'm Navindu Prabhashana 👋</h1>
 
 <h3>Software Engineer • AI/ML Developer • Blockchain Enthusiast</h3>
 
@@ -24,7 +24,7 @@ alt="Typing introduction"
 <pre>
 <code>class NavinduX:
     def __init__(self):
-        self.name = "Navindu P."
+        self.name = "Navindu"
         self.username = "NavinduX"
         self.role = "Software Engineering Student"
         self.location = "Sri Lanka 🇱🇰"
