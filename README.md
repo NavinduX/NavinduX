@@ -186,7 +186,7 @@ alt="NavinduX contribution activity graph"
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="center"> 
 
 <img
 width="100%"
