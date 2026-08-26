@@ -21,21 +21,34 @@ alt="Typing introduction"
 
 ## 👨‍💻 About Me
 
-class NavinduX:
+<pre>
+<code>class NavinduX:
     def __init__(self):
-        self.name     = "Navindu Prabhashana"
-        self.role     = "Software Engineering Student"
+        self.name = "Navindu"
+        self.username = "NavinduX"
+        self.role = "Software Engineering Student"
         self.location = "Sri Lanka 🇱🇰"
-        self.focus    = ["Artificial Intelligence", "Machine Learning",
-                         "Blockchain", "Data Analytics"]
-        self.building = "BloxLogicAI"
-        self.mindset  = "Learn. Build. Improve. Repeat."
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Blockchain Technology",
+            "Software Engineering",
+            "Data Analytics"
+        ]
+
+        self.current_project = "BloxLogicAI"
+        self.mindset = "Learn. Build. Improve. Repeat."
 
     def introduce(self):
         return "Building intelligent solutions, one commit at a time."
 
 
-print(NavinduX().introduce())
+developer = NavinduX()
+print(developer.introduce())
+</code>
+</pre>
+
 * 🎓 Final-year **BSc Computing and Software Engineering** student
 * 🔭 Currently developing **BloxLogicAI**
 * 🧠 Interested in **AI, machine learning and intelligent systems**
