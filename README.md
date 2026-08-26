@@ -136,39 +136,23 @@ BloxLogicAI combines machine learning and blockchain technology to improve trans
 
 ---
 
-## 📈 GitHub Analytics
+## ⚡ Developer Metrics
 
 <div align="center">
 
 <a href="https://github.com/NavinduX">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavinduX&theme=tokyonight"
-    alt="NavinduX GitHub statistics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavinduX&theme=github_dark&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=7C3AED&chart_color=00D9FF&hide_logo=true&animation=rise&duration=2"
+    alt="NavinduX GitHub performance"
   />
 </a>
 
 <a href="https://github.com/NavinduX">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavinduX&theme=tokyonight"
-    alt="NavinduX most-used languages"
-  />
-</a>
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/NavinduX">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavinduX&theme=tokyonight"
-    alt="NavinduX contribution activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NavinduX&theme=github_dark&utcOffset=5.5&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=7C3AED&chart_color=7C3AED&animation=rise&duration=2"
+    alt="NavinduX coding activity by time"
   />
 </a>
 
