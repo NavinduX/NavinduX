@@ -143,34 +143,22 @@ BloxLogicAI combines machine learning and blockchain technology to improve trans
 <a href="https://git.io/streak-stats">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com?user=NavinduX&background=0D1117&border=30363D&stroke=30363D&ring=00D9FF&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8&timezone=Asia%2FColombo"
+    src="https://streak-stats.demolab.com?user=NavinduX&background=0B0B0F&border=6D28D9&stroke=2D153D&ring=39FF14&fire=FF7A00&currStreakNum=FF7A00&sideNums=39FF14&currStreakLabel=C77DFF&sideLabels=FFB000&dates=A78BFA&border_radius=8&timezone=Asia%2FColombo"
     alt="NavinduX GitHub contribution streak"
   />
 </a>
 
 <br><br>
 
-<a href="https://github.com/NavinduX">
+<h3>Contribution Snake</h3>
+
+<picture>
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NavinduX&bg_color=0D1117&color=C9D1D9&title_color=FFFFFF&line=00D9FF&point=7C3AED&area_color=00D9FF&area=true&border_color=30363D&radius=8&height=320&days=90&custom_title=Contributions%20Over%20Time"
-    alt="NavinduX contributions over time"
+    src="https://raw.githubusercontent.com/NavinduX/NavinduX/output/github-contribution-snake.svg"
+    alt="Animated NavinduX contribution snake"
   />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-profile-trophy.vercel.app/?username=NavinduX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-alt="NavinduX GitHub trophies"
-/>
+</picture>
 
 </div>
 
