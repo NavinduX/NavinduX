@@ -136,23 +136,25 @@ BloxLogicAI combines machine learning and blockchain technology to improve trans
 
 ---
 
-## ⚡ Developer Metrics
+## 📊 GitHub Performance
 
 <div align="center">
 
-<a href="https://github.com/NavinduX">
+<a href="https://git.io/streak-stats">
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavinduX&theme=github_dark&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=7C3AED&chart_color=00D9FF&hide_logo=true&animation=rise&duration=2"
-    alt="NavinduX GitHub performance"
+    width="70%"
+    src="https://streak-stats.demolab.com?user=NavinduX&background=0D1117&border=30363D&stroke=30363D&ring=00D9FF&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8&timezone=Asia%2FColombo"
+    alt="NavinduX GitHub contribution streak"
   />
 </a>
 
+<br><br>
+
 <a href="https://github.com/NavinduX">
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NavinduX&theme=github_dark&utcOffset=5.5&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=7C3AED&chart_color=7C3AED&animation=rise&duration=2"
-    alt="NavinduX coding activity by time"
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NavinduX&bg_color=0D1117&color=C9D1D9&title_color=FFFFFF&line=00D9FF&point=7C3AED&area_color=00D9FF&area=true&border_color=30363D&radius=8&height=320&days=90&custom_title=Contributions%20Over%20Time"
+    alt="NavinduX contributions over time"
   />
 </a>
 
