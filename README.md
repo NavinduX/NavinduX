@@ -17,12 +17,9 @@ alt="Typing introduction"
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-<pre>
-<code>class NavinduX:
+class NavinduX:
     def __init__(self):
         self.name = "Navindu"
         self.username = "NavinduX"
@@ -46,52 +43,58 @@ alt="Typing introduction"
 
 developer = NavinduX()
 print(developer.introduce())
-</code>
-</pre>
 
-* 🎓 Final-year **BSc Computing and Software Engineering** student
-* 🔭 Currently developing **BloxLogicAI**
-* 🧠 Interested in **AI, machine learning and intelligent systems**
-* ⛓️ Exploring **blockchain-powered software solutions**
-* 📊 Working with data analytics and anomaly-detection models
-* 🚀 Focused on building practical solutions for real-world problems
-* 🌱 Continuously learning new technologies and development practices
+🎓 Final-year BSc Computing and Software Engineering student
 
----
+🔭 Currently developing BloxLogicAI
 
-## 🚀 Featured Project
+🧠 Interested in AI, machine learning and intelligent systems
 
-### 🔗 BloxLogicAI
+⛓️ Exploring blockchain-powered software solutions
 
-**An Intelligent Blockchain-Based Supply Chain Anomaly Detection Prototype**
+📊 Working with data analytics and anomaly-detection models
+
+🚀 Focused on building practical solutions for real-world problems
+
+🌱 Continuously learning new technologies and development practices
+
+🚀 Featured Project
+
+🔗 BloxLogicAI
+
+An Intelligent Blockchain-Based Supply Chain Anomaly Detection Prototype
 
 BloxLogicAI combines machine learning and blockchain technology to improve transparency, traceability and anomaly detection in supply-chain operations.
 
-### Key Features
+Key Features
 
-* 🤖 Machine-learning-based anomaly detection
-* ⛓️ Blockchain-backed shipment records
-* 🔐 Secure and tamper-resistant transaction history
-* 📦 Supply-chain batch monitoring
-* 👥 Role-based access control
-* 📊 Interactive analytics dashboard
-* 🔎 Transparent shipment verification
+🤖 Machine-learning-based anomaly detection
 
-### Technology Stack
+⛓️ Blockchain-backed shipment records
 
-`Python` • `Flask` • `Streamlit` • `Scikit-learn` • `Solidity` • `Web3.py` • `Ganache` • `SQLite`
+🔐 Secure and tamper-resistant transaction history
 
----
+📦 Supply-chain batch monitoring
 
-## 🛠️ Tech Stack
+👥 Role-based access control
 
-### Programming Languages
+📊 Interactive analytics dashboard
+
+🔎 Transparent shipment verification
+
+Technology Stack
+
+Python • Flask • Streamlit • Scikit-learn • Solidity • Web3.py • Ganache • SQLite
+
+🛠️ Tech Stack
+
+Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,solidity" alt="Programming languages">
 </p>
 
-### Frameworks and Libraries
+Frameworks and Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=flask,bootstrap,nodejs" alt="Frameworks">
@@ -104,7 +107,7 @@ BloxLogicAI combines machine learning and blockchain technology to improve trans
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
-### Databases and Blockchain
+Databases and Blockchain
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,ethereum" alt="Databases and blockchain">
@@ -116,77 +119,85 @@ BloxLogicAI combines machine learning and blockchain technology to improve trans
   <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart contracts">
 </p>
 
-### Development Tools
+Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,figma" alt="Development tools">
 </p>
 
----
+🧠 Areas of Interest
 
-## 🧠 Areas of Interest
+Area
 
-| Area                    | Interest                 |
-| ----------------------- | ------------------------ |
-| Artificial Intelligence | ███████████████████░ 95% |
-| Machine Learning        | ██████████████████░░ 90% |
-| Software Engineering    | ██████████████████░░ 90% |
-| Blockchain Development  | ████████████████░░░░ 80% |
-| Data Analytics          | ████████████████░░░░ 80% |
-| System Design           | ███████████████░░░░░ 75% |
-| UI/UX Design            | ██████████████░░░░░░ 70% |
+Interest
 
----
+Artificial Intelligence
 
-## 📈 GitHub Analytics
+███████████████████░ 95%
 
-<div align="center">
+Machine Learning
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=NavinduX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="NavinduX GitHub statistics"
-/>
+██████████████████░░ 90%
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-alt="NavinduX most-used languages"
-/>
+Software Engineering
 
-</div>
+██████████████████░░ 90%
 
-<br>
+Blockchain Development
 
-<div align="center">
+████████████████░░░░ 80%
 
-<img
-width="70%"
-src="https://streak-stats.demolab.com?user=NavinduX&theme=tokyonight&hide_border=true"
-alt="NavinduX GitHub streak"
-/>
+Data Analytics
 
-</div>
+████████████████░░░░ 80%
 
----
+System Design
 
-## 📊 Contribution Activity
+███████████████░░░░░ 75%
+
+UI/UX Design
+
+██████████████░░░░░░ 70%
+
+📈 GitHub Analytics
 
 <div align="center">
 
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=NavinduX&theme=tokyo-night&hide_border=true&area=true"
-alt="NavinduX contribution activity graph"
-/>
+<a href="https://github.com/NavinduX">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavinduX&theme=tokyonight"
+    alt="NavinduX GitHub statistics"
+  />
+</a>
+
+<a href="https://github.com/NavinduX">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavinduX&theme=tokyonight"
+    alt="NavinduX most-used languages"
+  />
+</a>
 
 </div>
 
----
+📊 Contribution Activity
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<div align="center"> 
+<a href="https://github.com/NavinduX">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavinduX&theme=tokyonight"
+    alt="NavinduX contribution activity"
+  />
+</a>
+
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
 
 <img
 width="100%"
@@ -196,21 +207,23 @@ alt="NavinduX GitHub trophies"
 
 </div>
 
----
+🎯 Current Goals
 
-## 🎯 Current Goals
+Complete and enhance BloxLogicAI
 
-* Complete and enhance **BloxLogicAI**
-* Strengthen my machine-learning and AI knowledge
-* Build production-ready software projects
-* Explore advanced blockchain applications
-* Contribute to open-source projects
-* Improve my backend development skills
-* Grow as a professional software engineer
+Strengthen my machine-learning and AI knowledge
 
----
+Build production-ready software projects
 
-## 🤝 Connect With Me
+Explore advanced blockchain applications
+
+Contribute to open-source projects
+
+Improve my backend development skills
+
+Grow as a professional software engineer
+
+🤝 Connect With Me
 
 <div align="center">
 
@@ -228,11 +241,9 @@ alt="NavinduX GitHub trophies"
 
 </div>
 
----
-
 <div align="center">
 
-### 💡 Great software begins with curiosity and grows through continuous learning.
+💡 Great software begins with curiosity and grows through continuous learning.
 
 <br>
 
