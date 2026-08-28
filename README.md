@@ -143,7 +143,7 @@ BloxLogicAI combines machine learning and blockchain technology to improve trans
 <a href="https://git.io/streak-stats">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com?user=NavinduX&background=0B0B0F&border=6D28D9&stroke=2D153D&ring=39FF14&fire=FF7A00&currStreakNum=FF7A00&sideNums=39FF14&currStreakLabel=C77DFF&sideLabels=FFB000&dates=A78BFA&border_radius=8&timezone=Asia%2FColombo"
+    src="github-readme-streak-stats-eight.vercel.app?user=NavinduX&background=0B0B0F&border=6D28D9&stroke=2D153D&ring=39FF14&fire=FF7A00&currStreakNum=FF7A00&sideNums=39FF14&currStreakLabel=C77DFF&sideLabels=FFB000&dates=A78BFA&border_radius=8&timezone=Asia%2FColombo"
     alt="NavinduX GitHub contribution streak"
   />
 </a>
